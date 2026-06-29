@@ -1,0 +1,13 @@
+---
+title: "Version Control"
+output: html_document
+date: "2026-06-29"
+---
+
+I'm practicing reading in data to github below!
+
+```{r}
+library(tidyverse)
+rain <- read_csv("https://daseh.org/data/Baltimore_rainfall_HamiltonAve.csv")
+```
+
